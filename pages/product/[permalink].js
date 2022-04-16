@@ -66,7 +66,7 @@ export default function Product() {
   return (
     <Root>
       <Head>
-        <title>{ product.name } | commerce</title>
+        <title>{ product.name } | Automated Art</title>
       </Head>
 
       <div className="py-5 my-5">
