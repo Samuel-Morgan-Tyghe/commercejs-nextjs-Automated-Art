@@ -67,7 +67,7 @@ export default class ClientReview extends Component {
 
     return (
       <div id="reviews" className="custom-container pb-5">
-        <Modal
+        {/* <Modal
           isOpen={open}
           onClose={this.handleClose}
           maxW="1000px"
@@ -103,7 +103,7 @@ export default class ClientReview extends Component {
               </button>
             </ReviewList>
           </div>
-        </div>
+        </div> */}
       </div>
     );
   }
